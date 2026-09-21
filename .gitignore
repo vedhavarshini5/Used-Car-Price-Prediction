@@ -14,7 +14,9 @@ env/
 .env.*
 
 # VS Code
-.vscode/
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
 
 # Testing
 .pytest_cache/
