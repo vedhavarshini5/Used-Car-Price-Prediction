@@ -1,0 +1,500 @@
+{
+  "Ambassador": {
+    "models": [
+      "CLASSIC 1500",
+      "Grand 1500",
+      "Grand 2000"
+    ],
+    "typical_engine": 1995,
+    "typical_mileage": 12.8,
+    "typical_power": 52.0,
+    "count": 3
+  },
+  "Ashok": {
+    "models": [
+      "Leyland Stile"
+    ],
+    "typical_engine": 1461,
+    "typical_mileage": 20.1,
+    "typical_power": 75.0,
+    "count": 1
+  },
+  "Audi": {
+    "models": [
+      "A3 35",
+      "A4 1.8",
+      "A4 2.0",
+      "A4 35",
+      "A6 2.0",
+      "Q3 2.0",
+      "Q3 35",
+      "Q5 2.0",
+      "Q5 3.0",
+      "Q5 35TDI",
+      "Q7 3.0",
+      "Q7 35"
+    ],
+    "typical_engine": 1968,
+    "typical_mileage": 15.7,
+    "typical_power": 187.7,
+    "count": 33
+  },
+  "Bmw": {
+    "models": [
+      "3 Series",
+      "5 Series",
+      "6 Series",
+      "7 Series",
+      "X1 sDrive",
+      "X1 sDrive20d",
+      "X1 sDrive20i",
+      "X3 xDrive20d",
+      "X4 M",
+      "X5 3.0d",
+      "X6 xDrive30d",
+      "X7 xDrive"
+    ],
+    "typical_engine": 1995,
+    "typical_mileage": 17.1,
+    "typical_power": 190.0,
+    "count": 47
+  },
+  "Chevrolet": {
+    "models": [
+      "Aveo U-VA",
+      "Beat Diesel",
+      "Beat LS",
+      "Beat LT",
+      "Captiva LT",
+      "Enjoy 1.3",
+      "Enjoy TCDi",
+      "Optra Magnum",
+      "Sail 1.2",
+      "Sail Hatchback",
+      "Spark 1.0",
+      "Tavera Neo"
+    ],
+    "typical_engine": 1199,
+    "typical_mileage": 18.2,
+    "typical_power": 73.8,
+    "count": 216
+  },
+  "Daewoo": {
+    "models": [
+      "Matiz SD",
+      "Matiz SS"
+    ],
+    "typical_engine": 796,
+    "typical_mileage": 18.5,
+    "typical_power": 53.0,
+    "count": 3
+  },
+  "Datsun": {
+    "models": [
+      "GO A",
+      "GO Anniversary",
+      "GO D",
+      "GO Plus",
+      "GO T",
+      "RediGO 1.0",
+      "RediGO A",
+      "RediGO AMT",
+      "RediGO S",
+      "RediGO SV",
+      "RediGO Sport",
+      "RediGO T"
+    ],
+    "typical_engine": 1198,
+    "typical_mileage": 20.6,
+    "typical_power": 67.0,
+    "count": 57
+  },
+  "Fiat": {
+    "models": [
+      "Avventura MULTIJET",
+      "Avventura Power",
+      "Grande Punto",
+      "Linea 1.3",
+      "Linea Classic",
+      "Linea Emotion",
+      "Palio 1.2",
+      "Punto 1.2",
+      "Punto 1.3",
+      "Punto EVO",
+      "Punto Pure"
+    ],
+    "typical_engine": 1248,
+    "typical_mileage": 20.3,
+    "typical_power": 90.0,
+    "count": 44
+  },
+  "Force": {
+    "models": [
+      "Gurkha Hard",
+      "One EX",
+      "One SX"
+    ],
+    "typical_engine": 2398,
+    "typical_mileage": 17.0,
+    "typical_power": 109.9,
+    "count": 4
+  },
+  "Ford": {
+    "models": [
+      "Classic 1.4",
+      "EcoSport 1.5",
+      "Ecosport 1.5",
+      "Endeavour Hurricane",
+      "Fiesta 1.4",
+      "Fiesta Titanium",
+      "Figo 1.2P",
+      "Figo Aspire",
+      "Figo Diesel",
+      "Figo Petrol",
+      "Freestyle Titanium",
+      "Freestyle Trend"
+    ],
+    "typical_engine": 1497,
+    "typical_mileage": 20.0,
+    "typical_power": 94.7,
+    "count": 361
+  },
+  "Honda": {
+    "models": [
+      "Amaze S",
+      "Brio 1.2",
+      "Brio Exclusive",
+      "Brio S",
+      "City 1.5",
+      "City 2017-2020",
+      "City V",
+      "City i",
+      "City i-DTEC",
+      "City i-VTEC",
+      "Jazz VX",
+      "WR-V i-DTEC"
+    ],
+    "typical_engine": 1497,
+    "typical_mileage": 18.1,
+    "typical_power": 98.6,
+    "count": 362
+  },
+  "Hyundai": {
+    "models": [
+      "Creta 1.6",
+      "Verna 1.6",
+      "Verna VTVT",
+      "Xcent 1.2",
+      "i10 Era",
+      "i10 Magna",
+      "i20 1.2",
+      "i20 1.4",
+      "i20 2015-2017",
+      "i20 Asta",
+      "i20 Magna",
+      "i20 Sportz"
+    ],
+    "typical_engine": 1197,
+    "typical_mileage": 19.8,
+    "typical_power": 81.9,
+    "count": 1257
+  },
+  "Isuzu": {
+    "models": [
+      "D-Max V-Cross",
+      "MU 7",
+      "MUX 2WD"
+    ],
+    "typical_engine": 2749,
+    "typical_mileage": 12.4,
+    "typical_power": 154.4,
+    "count": 4
+  },
+  "Jaguar": {
+    "models": [
+      "XE 2016-2019",
+      "XF 2.0",
+      "XF 2.2",
+      "XF 3.0",
+      "XF Diesel"
+    ],
+    "typical_engine": 2179,
+    "typical_mileage": 14.7,
+    "typical_power": 187.7,
+    "count": 8
+  },
+  "Jeep": {
+    "models": [
+      "Compass 1.4",
+      "Compass 2.0",
+      "Wrangler 2016-2019"
+    ],
+    "typical_engine": 1956,
+    "typical_mileage": 17.1,
+    "typical_power": 170.0,
+    "count": 22
+  },
+  "Kia": {
+    "models": [
+      "Seltos HTE",
+      "Seltos HTX"
+    ],
+    "typical_engine": 1493,
+    "typical_mileage": 17.8,
+    "typical_power": 113.4,
+    "count": 3
+  },
+  "Land": {
+    "models": [
+      "Rover Discovery",
+      "Rover Range"
+    ],
+    "typical_engine": 2089,
+    "typical_mileage": 12.8,
+    "typical_power": 168.0,
+    "count": 2
+  },
+  "Lexus": {
+    "models": [
+      "ES 300h"
+    ],
+    "typical_engine": 2487,
+    "typical_mileage": 22.4,
+    "typical_power": 214.6,
+    "count": 1
+  },
+  "Mahindra": {
+    "models": [
+      "Bolero SLE",
+      "KUV 100",
+      "Marazzo M6",
+      "Quanto C8",
+      "Scorpio LX",
+      "Scorpio VLX",
+      "Ssangyong Rexton",
+      "Thar CRDe",
+      "Verito 1.5",
+      "XUV500 W11",
+      "XUV500 W4",
+      "XUV500 W8"
+    ],
+    "typical_engine": 2179,
+    "typical_mileage": 16.0,
+    "typical_power": 100.0,
+    "count": 716
+  },
+  "Maruti": {
+    "models": [
+      "800 DX",
+      "Alto 800",
+      "Alto LX",
+      "Baleno Delta",
+      "Ertiga SHVS",
+      "Omni E",
+      "SX4 ZDI",
+      "Swift 1.3",
+      "Swift Dzire",
+      "Swift VXI",
+      "Wagon R",
+      "Zen LX"
+    ],
+    "typical_engine": 1197,
+    "typical_mileage": 21.1,
+    "typical_power": 74.0,
+    "count": 2155
+  },
+  "Mercedes-Benz": {
+    "models": [
+      "B Class",
+      "CLA 200",
+      "E-Class E",
+      "E-Class E250",
+      "E-Class E270",
+      "E-Class Exclusive",
+      "GL-Class 220d",
+      "GL-Class 350",
+      "GLA Class",
+      "M-Class ML",
+      "New C-Class",
+      "S-Class S"
+    ],
+    "typical_engine": 2143,
+    "typical_mileage": 14.8,
+    "typical_power": 179.5,
+    "count": 44
+  },
+  "Mg": {
+    "models": [
+      "Hector Sharp",
+      "Hector Smart"
+    ],
+    "typical_engine": 1451,
+    "typical_mileage": 14.0,
+    "typical_power": 141.0,
+    "count": 3
+  },
+  "Mitsubishi": {
+    "models": [
+      "Lancer 2.0",
+      "Pajero 2.8",
+      "Pajero Sport"
+    ],
+    "typical_engine": 2477,
+    "typical_mileage": 13.5,
+    "typical_power": 116.9,
+    "count": 11
+  },
+  "Nissan": {
+    "models": [
+      "Kicks XV",
+      "Micra Active",
+      "Micra Diesel",
+      "Micra XL",
+      "Micra XV",
+      "Sunny Diesel",
+      "Sunny XE",
+      "Sunny XL",
+      "Sunny XV",
+      "Terrano XE",
+      "Terrano XL",
+      "Terrano XV"
+    ],
+    "typical_engine": 1461,
+    "typical_mileage": 19.6,
+    "typical_power": 83.8,
+    "count": 73
+  },
+  "Opel": {
+    "models": [
+      "Astra 1.6"
+    ],
+    "typical_engine": 1598,
+    "typical_mileage": 13.1,
+    "typical_power": 77.0,
+    "count": 1
+  },
+  "Peugeot": {
+    "models": [
+      "309 GLD"
+    ],
+    "typical_engine": 1248,
+    "typical_mileage": 19.3,
+    "typical_power": 82.0,
+    "count": 1
+  },
+  "Renault": {
+    "models": [
+      "Duster 110PS",
+      "Duster 85PS",
+      "Duster Adventure",
+      "KWID 1.0",
+      "KWID Climber",
+      "KWID RXL",
+      "KWID RXT",
+      "Lodgy World",
+      "Pulse RxZ",
+      "Scala Diesel",
+      "Triber RXT",
+      "Triber RXZ"
+    ],
+    "typical_engine": 999,
+    "typical_mileage": 23.0,
+    "typical_power": 67.0,
+    "count": 206
+  },
+  "Skoda": {
+    "models": [
+      "Fabia 1.2",
+      "Fabia 1.4",
+      "Laura Ambiente",
+      "Octavia Ambition",
+      "Octavia Style",
+      "Rapid 1.5",
+      "Rapid 1.6",
+      "Rapid Ultima",
+      "Superb 1.8",
+      "Superb Elegance",
+      "Superb LK",
+      "Yeti Ambition"
+    ],
+    "typical_engine": 1598,
+    "typical_mileage": 19.8,
+    "typical_power": 103.5,
+    "count": 70
+  },
+  "Tata": {
+    "models": [
+      "Hexa XE",
+      "Indica DLS",
+      "Indica Vista",
+      "Indigo CS",
+      "Manza Aura",
+      "Manza ELAN",
+      "Nexon 1.2",
+      "Nexon 1.5",
+      "Safari DICOR",
+      "Tigor 1.2",
+      "Tigor 2017-2020",
+      "Zest Quadrajet"
+    ],
+    "typical_engine": 1396,
+    "typical_mileage": 18.8,
+    "typical_power": 83.8,
+    "count": 645
+  },
+  "Toyota": {
+    "models": [
+      "Camry 2.5",
+      "Camry W4",
+      "Corolla Altis",
+      "Etios GD",
+      "Etios VXD",
+      "Fortuner 2.8",
+      "Fortuner 3.0",
+      "Fortuner 4x2",
+      "Fortuner 4x4",
+      "Glanza V",
+      "Innova 2.5",
+      "Innova Crysta"
+    ],
+    "typical_engine": 2494,
+    "typical_mileage": 13.0,
+    "typical_power": 102.0,
+    "count": 357
+  },
+  "Volkswagen": {
+    "models": [
+      "Ameo 1.0",
+      "Ameo 1.2",
+      "Ameo 1.5",
+      "GTI 1.8",
+      "Jetta 2.0L",
+      "Passat 1.8",
+      "Polo 1.2",
+      "Polo 1.5",
+      "Polo Diesel",
+      "Vento 1.6",
+      "Vento Diesel",
+      "Vento Petrol"
+    ],
+    "typical_engine": 1498,
+    "typical_mileage": 20.5,
+    "typical_power": 103.6,
+    "count": 172
+  },
+  "Volvo": {
+    "models": [
+      "S60 D4",
+      "S90 D4",
+      "V40 Cross",
+      "V40 D3",
+      "XC40 D4",
+      "XC60 Inscription",
+      "XC90 T8"
+    ],
+    "typical_engine": 1969,
+    "typical_mileage": 18.0,
+    "typical_power": 190.0,
+    "count": 9
+  }
+}

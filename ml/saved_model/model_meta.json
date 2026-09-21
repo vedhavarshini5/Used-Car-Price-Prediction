@@ -1,0 +1,186 @@
+{
+  "dataset_name": "CarDekho Used Car Dataset",
+  "total_records": 6891,
+  "train_records": 5512,
+  "test_records": 1379,
+  "feature_count": 40,
+  "feature_columns": [
+    "car_age",
+    "km_driven",
+    "km_per_year",
+    "mileage_val",
+    "engine_val",
+    "power_val",
+    "seats",
+    "is_luxury",
+    "brand_cat_Audi",
+    "brand_cat_Chevrolet",
+    "brand_cat_Datsun",
+    "brand_cat_Fiat",
+    "brand_cat_Ford",
+    "brand_cat_Honda",
+    "brand_cat_Hyundai",
+    "brand_cat_Jeep",
+    "brand_cat_Kia",
+    "brand_cat_Mahindra",
+    "brand_cat_Maruti",
+    "brand_cat_Mercedes-Benz",
+    "brand_cat_Mg",
+    "brand_cat_Nissan",
+    "brand_cat_Other",
+    "brand_cat_Renault",
+    "brand_cat_Skoda",
+    "brand_cat_Tata",
+    "brand_cat_Toyota",
+    "brand_cat_Volkswagen",
+    "brand_cat_Volvo",
+    "fuel_Cng",
+    "fuel_Diesel",
+    "fuel_Lpg",
+    "fuel_Petrol",
+    "transmission_Automatic",
+    "transmission_Manual",
+    "owner_First Owner",
+    "owner_Fourth & Above Owner",
+    "owner_Second Owner",
+    "owner_Test Drive Car",
+    "owner_Third Owner"
+  ],
+  "rf_metrics": {
+    "name": "Random Forest Regressor",
+    "r2": 0.9265,
+    "mae": 78630.5,
+    "rmse": 144239.75,
+    "n_estimators": 120,
+    "max_depth": 22
+  },
+  "lr_metrics": {
+    "name": "Linear Regression",
+    "r2": 0.6892,
+    "mae": 147996.15,
+    "rmse": 296534.02
+  },
+  "feature_importances": [
+    {
+      "feature": "power_val",
+      "importance": 57.64
+    },
+    {
+      "feature": "car_age",
+      "importance": 24.17
+    },
+    {
+      "feature": "km_driven",
+      "importance": 4.48
+    },
+    {
+      "feature": "is_luxury",
+      "importance": 3.95
+    },
+    {
+      "feature": "mileage_val",
+      "importance": 2.4
+    },
+    {
+      "feature": "engine_val",
+      "importance": 2.32
+    },
+    {
+      "feature": "km_per_year",
+      "importance": 1.25
+    },
+    {
+      "feature": "seats",
+      "importance": 1.24
+    },
+    {
+      "feature": "brand_cat_Toyota",
+      "importance": 0.46
+    },
+    {
+      "feature": "brand_cat_Tata",
+      "importance": 0.42
+    },
+    {
+      "feature": "transmission_Automatic",
+      "importance": 0.19
+    },
+    {
+      "feature": "brand_cat_Mercedes-Benz",
+      "importance": 0.18
+    },
+    {
+      "feature": "owner_First Owner",
+      "importance": 0.17
+    },
+    {
+      "feature": "transmission_Manual",
+      "importance": 0.15
+    },
+    {
+      "feature": "fuel_Diesel",
+      "importance": 0.15
+    }
+  ],
+  "price_percentiles": {
+    "p10": 145000.0,
+    "p25": 250000.0,
+    "p50": 400000.0,
+    "p75": 635000.0,
+    "p90": 900000.0,
+    "min": 29999.0,
+    "max": 10000000.0,
+    "mean": 517458.3835437527
+  },
+  "available_brands": [
+    "Ambassador",
+    "Ashok",
+    "Audi",
+    "Bmw",
+    "Chevrolet",
+    "Daewoo",
+    "Datsun",
+    "Fiat",
+    "Force",
+    "Ford",
+    "Honda",
+    "Hyundai",
+    "Isuzu",
+    "Jaguar",
+    "Jeep",
+    "Kia",
+    "Land",
+    "Lexus",
+    "Mahindra",
+    "Maruti",
+    "Mercedes-Benz",
+    "Mg",
+    "Mitsubishi",
+    "Nissan",
+    "Opel",
+    "Peugeot",
+    "Renault",
+    "Skoda",
+    "Tata",
+    "Toyota",
+    "Volkswagen",
+    "Volvo"
+  ],
+  "fuel_types": [
+    "Cng",
+    "Diesel",
+    "Lpg",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "owner_types": [
+    "First Owner",
+    "Fourth & Above Owner",
+    "Second Owner",
+    "Test Drive Car",
+    "Third Owner"
+  ]
+}
